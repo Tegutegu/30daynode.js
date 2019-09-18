@@ -1,0 +1,23 @@
+{
+  "name": "day13node",
+  "version": "1.0.0",
+  "description": "tutorial",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n/a.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Alex Thomas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n/a/issues"
+  },
+  "homepage": "https://github.com/n/a#readme"
+}
